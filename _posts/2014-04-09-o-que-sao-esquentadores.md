@@ -3,19 +3,19 @@ layout: default
 title: O que são os esquentadores?
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 Há muito tempo que os esquentadores entraram na casa das famílias como um elemento importante nas suas vidas.
 
 Apesar de existirem outros sistemas de aquecimento de água, os esquentadores tornaram-se num dos mais populares, tanto pela sua facilidade de uso, como na economia que favorecem.
 
-##O que são os esquentadores?
+## O que são os esquentadores?
 
 Os esquentadores são aparelhos utilizados para o aquecimentos de águas e os seus diversos sistemas utilizam gás propano/butano ou gás natural para o seu funcionamento.
 
 Existem diversos tipos de sistemas que podem ser inteligentes ou manuais e o seu sistema de funcionamento e montagem difere uns dos outros.
 
-##Como funcionam os esquentadores?
+## Como funcionam os esquentadores?
 
 Os elementos importantes no sistema de funcionamento dos esquentadores são:
 
@@ -33,7 +33,7 @@ Os sistemas de segurança existentes no esquentador evitam que exista um sobre-a
 
 Este sistema é contínuo enquanto possui a torneira aberta, pois quando a fecha, o sistema reinicia e é possível que neste intervalo, venha alguma água fria.
 
-##Tipos de Esquentadores
+## Tipos de Esquentadores
 
 Existem vários tipos de esquentadores que possuem sistemas de funcionamento diferentes, que vão desde sistemas manuais, onde é necessário ligar a chama piloto antes de cada utilização, até sistemas inteligentes que accionam essa chama quando se abre uma torneira.
 
@@ -46,7 +46,7 @@ No mercado é possível encontrar uma grande variedade de esquentadores e estes 
 
 Se pretender obter informação detalhada acerca de cada um destes sistemas, veja o nosso artigo sobre os diferentes tipos de esquentador.
 
-##Compatibilidade com os painéis solares
+## Compatibilidade com os painéis solares
 
 Nem todos os esquentadores são compatíveis com o sistema de painéis solares, por isso, se estiver interessado em investir neste aparelho, é necessário confirmar primeiro a sua compatibilidade.
 

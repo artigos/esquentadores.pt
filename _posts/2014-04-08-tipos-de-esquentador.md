@@ -3,7 +3,7 @@ layout: default
 title: Tipos de esquentador
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 Existem no mercado vários tipos de esquentador e normalmente as várias gamas criam muitas dúvidas a quem pretende adquirir um para a sua habitação.
 
@@ -11,7 +11,7 @@ Mais o que difere entre eles? Como funcionam e quais são os mais económicos?
 
 Neste artigo pretendemos abordar os vários _tipos de esquentadores_ e apresentar as várias diferenças entre eles e o seu modo de funcionamento.
 
-##Esquentadores de Isqueiro
+## Esquentadores de Isqueiro
 
 Apesar de estarem cada vez mais a cair em desuso, os _esquentadores de isqueiro_ eram os mais vulgares e são os mais baratos que se encontram no mercado.
 
@@ -21,7 +21,7 @@ O principio do funcionamento dos esquentadores de isqueiro centra-se na sua cham
 
 Depois da sua utilização é sempre aconselhável desligar o esquentador, tanto por motivos de segurança, como também para evitar gastos desnecessários de gás.
 
-##Esquentadores a pilhas
+## Esquentadores a pilhas
 
 Os _esquentadores a pilhas_ também são bastante comuns e o sistema de funcionamento e montagem é bastante idêntico ao esquentador de isqueiro.
 
@@ -31,7 +31,7 @@ Apesar de possuir um custo mais elevado que os esquentadores de isqueiro é muit
 
 Como funciona a pilhas há a necessidade de fazer a sua troca regularmente.
 
-##Esquentadores de hidrogerador
+## Esquentadores de hidrogerador
 
 Os _esquentadores de hidrogerador_ encontram-se normalmente associados aos esquentadores atmosféricos.
 
@@ -43,7 +43,7 @@ Sendo assim, não é necessário uma chama piloto permanente, sempre que abrir u
 
 Apesar de terem um custo mais elevado, estes esquentadores são muito económicos e a diferença é rapidamente anulada.
 
-##Esquentadores ventilados
+## Esquentadores ventilados
 
 Os _esquentadores ventilados_ necessitam de estar ligados à corrente elétrica, pois é a base do seu funcionamento.
 
